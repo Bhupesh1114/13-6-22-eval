@@ -1,0 +1,82 @@
+Preview
+[{
+  "Title": "Sports news",
+  "Description": "Displ seg fx shaft of humer, r arm, subs for fx w routn heal",
+  "Date": "6/15/2021",
+  "Author": "Mathias Newburn",
+  "Location": "London",
+  "category": "Painting & Vinyl Wall Covering",
+  "tags": "sports"
+}, {
+  "Title": "Crime news",
+  "Description": "Poisoning by other psychodysleptics, intentional self-harm",
+  "Date": "9/30/2021",
+  "Author": "Rey Rutty",
+  "Location": "London",
+  "category": "Elevator",
+  "tags": "crime"
+}, {
+  "Title": "Tech news",
+  "Description": "Unsp fx upr end l ulna, 7thE",
+  "Date": "10/4/2021",
+  "Author": "Magdaia Shellard",
+  "Location": "New York",
+  "category": "Site Furnishings",
+  "tags": "tech"
+}, {
+  "Title": "Crime news",
+  "Description": "Malignant hyperthermia due to anesthesia, subs encntr",
+  "Date": "11/24/2021",
+  "Author": " Kathrine",
+  "Location": "London",
+  "category": "Epoxy Flooring",
+  "tags": "crime"
+}, {
+  "Title": "Health news",
+  "Description": "Contusion of unsp ring finger w damage to nail, init encntr",
+  "Date": "7/17/2021",
+  "Author": "Rey Rutty",
+  "Location": "New York",
+  "category": "Elevator",
+  "tags": "health"
+}, {
+  "Title": "Politics news",
+  "Description": "Unsp fracture of right patella, init for opn fx type 3A/B/C",
+  "Date": "5/8/2022",
+  "Author": "Magdaia Shellard",
+  "Location": "New York",
+  "category": "Temp Fencing, Decorative Fencing and Gates",
+  "tags": "politics"
+}, {
+  "Title": "Sports news",
+  "Description": "Nondisp commnt fx r patella, 7thQ",
+  "Date": "1/31/2022",
+  "Author": "Kathrine",
+  "Location": "London",
+  "category": "Epoxy Flooring",
+  "tags": "sports"
+}, {
+  "Title": "Tech news",
+  "Description": "Displ bicondylar fx unsp tibia, 7thQ",
+  "Date": "12/26/2021",
+  "Author": "Mathias Newburn",
+  "Location": "New York",
+  "category": "Framing (Wood)",
+  "tags": "tech"
+}, {
+  "Title": "Crime news",
+  "Description": "Pnctr w/o foreign body of left great toe w damage to nail",
+  "Date": "10/3/2021",
+  "Author": "Rey Rutty",
+  "Location": "London",
+  "category": "Roofing (Metal)",
+  "tags": crime""
+}, {
+  "Title": "Sports news",
+  "Description": "Poisoning by oth agents aff GI sys, undetermined",
+  "Date": "8/18/2021",
+  "Author": "Magdaia Shellard",
+  "Location": "New York",
+  "category": "Framing (Wood)",
+  "tags": "sports"
+}]
